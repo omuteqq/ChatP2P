@@ -2,7 +2,8 @@
 Результат работы программы:
 
 Подключение первого пользователя:
-![Screenshot_2](https://github.com/user-attachments/assets/f3009862-5a0b-439f-9cb8-5da0b46f2e88)
+![Screenshot_1](https://github.com/user-attachments/assets/9879822c-3635-4b8e-98cc-03d4cf202dd4)
+
 
 Подключение второго пользователя и передача сообщений:
 ![Screenshot_2](https://github.com/user-attachments/assets/ea0971e2-e261-4342-bc26-3cbc02fa6008)
